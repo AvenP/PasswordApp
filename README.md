@@ -6,3 +6,8 @@ Cerated the java-work branch to start working on the code
 
 made array for lower case, upper case, numbers, and special chatacters.  
 
+
+Made a get prompts function 
+
+Added a for loop for the lenght of the password
+
